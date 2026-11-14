@@ -1,2 +1,4 @@
 # beatriz-de-moraes-API-node-cojm-sql
-Projeto de API REST com MySQL
+Aluna: Beatriz de Moraes Batista
+Turma: 3°DS
+Projeto API REST com MySQL
